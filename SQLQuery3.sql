@@ -1,0 +1,1 @@
+﻿CREATE LOGIN psuser WITH PASSWORD = 'selva1981@Sct'
